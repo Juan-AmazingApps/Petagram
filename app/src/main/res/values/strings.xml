@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="btnAceptar">Aceptar</string>
+    <string name="Mensaje">Este es un ejemplo de Alerta</string>
+    <string name="MensajeAccion">Action</string>
+    <string-array name="ListaPlanetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tirra</item>
+        <item>Marte</item>
+        <item>Jupiter</item>
+    </string-array>
+</resources>
